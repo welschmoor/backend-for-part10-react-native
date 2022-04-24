@@ -1,3 +1,8 @@
+.env file needs githubs:
+
+GITHUB_CLIENT_ID=aaaaaaaaaaa
+GITHUB_CLIENT_SECRET=aaaaaaaaaa
+
 ![CI](https://github.com/Kaltsoon/rate-repository-api/workflows/CI/badge.svg)
 
 # Rate Repository API
